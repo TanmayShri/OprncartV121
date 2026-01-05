@@ -1,0 +1,10 @@
+2026-01-04 13:22:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Tanmay\eclipse-workspace\opencardV121\master.xml
+
+2026-01-04 13:33:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Tanmay\eclipse-workspace\opencardV121\grid-docker.xml
+
+2026-01-04 13:33:57 INFO  TC001_AccountRegistrationTest:25 - **** Starting TC001_AccountRegistrationTest ****
+2026-01-04 13:33:57 ERROR TC001_AccountRegistrationTest:53 - Test dailed..
+2026-01-04 13:33:57 INFO  TC001_AccountRegistrationTest:58 - **** Finish TC001_AccountRegistrationTest ****
+2026-01-04 13:33:58 INFO  TC002_LoginTest:20 - ***Starting TC_002****
